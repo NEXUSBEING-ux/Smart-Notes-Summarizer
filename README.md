@@ -9,7 +9,7 @@ A simple NLP-based application that allows users to upload notes (PDF/Text) and 
 🧩 Easy to understand and extend
 🎓 Perfect for students and exam preparation
 
-🛠️ Tech Stack
+🛠️ Tech Stack 
 Python 3.9+
 pypdf – PDF text extraction
 Transformers (Hugging Face) – Text summarization
